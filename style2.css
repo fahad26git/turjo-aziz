@@ -1,0 +1,60 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+
+}
+section{
+    display: flex;
+    margin-bottom: 90px;
+}
+.first-part{
+    width: 50%;
+    padding: 5%;
+}
+.first-part img{
+    width: 100%;
+}
+.turjo{
+    font-size: 18px;
+}
+.aziz{
+    color: orange;
+}
+.orderlink{
+    padding: 10px 20px;
+    background-color: tomato;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.second-orange{
+    color:orange;
+    font-size: 24px;
+}
+.appointment{
+    padding: 10px 20px;
+    background-color: tomato;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+.foot{
+    font-size: 18px;
+    text-align: center;
+}
+.second-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
